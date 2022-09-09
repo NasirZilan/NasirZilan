@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm NasirZilan</h1>
 <h3 align="center">A passionate Web developer developer from Bangladesh</h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/758b.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirzilan&label=Profile%20views&color=0e75b6&style=flat" alt="nasirzilan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@nasir_zilan" target="blank"><img src="https://img.shields.io/twitter/follow/@nasir_zilan?logo=twitter&style=for-the-badge" alt="@nasir_zilan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently studying at **North South University**
 
 - 🌱 I’m currently learning **React Native**
 
@@ -16,11 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@nasir_zilan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nasir_zilan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarder-farhan-nasir-zilan-a9a231244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarder-farhan-nasir-zilan-a9a231244/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100084307818725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100084307818725" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gatxuwwydffhn4sk64f6h3x6uvucrgmr6bxj4japt2mmg5qi5vrqlqne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gatxuwwydffhn4sk64f6h3x6uvucrgmr6bxj4japt2mmg5qi5vrqlqne" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/snasirzilan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/snasirzilan3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarder farhan nasir zilan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarder farhan nasir zilan" height="30" width="40" /></a>
+<a href="https://fb.com/snasirzilan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="snasirzilan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/devzil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devzil" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@snasirzilan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@snasirzilan3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
